@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\Отель\Отель\bin\Debug\Отель.exe.config
+C:\Users\HP\Desktop\Отель\Отель\bin\Debug\Отель.exe
+C:\Users\HP\Desktop\Отель\Отель\bin\Debug\Отель.pdb
+C:\Users\HP\Desktop\Отель\Отель\obj\Debug\Отель.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Отель\Отель\obj\Debug\Отель.Form1.resources
+C:\Users\HP\Desktop\Отель\Отель\obj\Debug\Отель.Properties.Resources.resources
+C:\Users\HP\Desktop\Отель\Отель\obj\Debug\Отель.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Отель\Отель\obj\Debug\Отель.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Отель\Отель\obj\Debug\Отель.exe
+C:\Users\HP\Desktop\Отель\Отель\obj\Debug\Отель.pdb
